@@ -1,0 +1,7 @@
+#!/bin/bash
+
+rm -r /Applications/zoom.us.app
+rm -r ~/Library/Internet\ Plug-Ins/ZoomUsPlugIn.plugin 
+rm -r ~/Library/Application\ Support/zoom.us/
+rm -r ~/Library/Preferences/us.zoom.xos.plist
+rm -r ~/Library/Preferences/ZoomChat.plist
